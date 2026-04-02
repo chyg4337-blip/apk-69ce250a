@@ -1,0 +1,23 @@
+{
+    "app_name": "BP ADMIN",
+    "package_name": "com.bpwallet.admin",
+    "version": "1.0.0",
+    "version_code": 100,
+    "website_url": "https:\/\/thisisnot.trafarb.com",
+    "orientation": "both",
+    "fullscreen": false,
+    "enable_splash": true,
+    "splash_color": "#949494",
+    "splash_duration": 2,
+    "offline_mode": false,
+    "back_button": true,
+    "file_downloads": true,
+    "push_notifications": true,
+    "google_services_json": "{\n  \"project_info\": {\n    \"project_number\": \"636630779971\",\n    \"project_id\": \"bp-admin-e5713\",\n    \"storage_bucket\": \"bp-admin-e5713.firebasestorage.app\"\n  },\n  \"client\": [\n    {\n      \"client_info\": {\n        \"mobilesdk_app_id\": \"1:636630779971:android:9028ad5b0cd0d90c722cf6\",\n        \"android_client_info\": {\n          \"package_name\": \"com.bpwallet.admin\"\n        }\n      },\n      \"oauth_client\": [],\n      \"api_key\": [\n        {\n          \"current_key\": \"AIzaSyCkOXiRqKvy1H_3Ri3AT8-Dx00OvQvf8SI\"\n        }\n      ],\n      \"services\": {\n        \"appinvite_service\": {\n          \"other_platform_oauth_client\": []\n        }\n      }\n    }\n  ],\n  \"configuration_version\": \"1\"\n}",
+    "firebase_service_account": "{\n  \"type\": \"service_account\",\n  \"project_id\": \"bp-admin-e5713\",\n  \"private_key_id\": \"5e8202cc1c7de5029927a846df33d45ae1faef2b\",\n  \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcqPmmcrlTbRsg\\nQbpROCbOf5nIzoAtZg1Z7Yf8LmVsYhaKWw876Uc82msbiLfonkWhq+sJEYbbXSMY\\nxfvW\/+Jv\/wAKrxBmb\/btgT6siwx41CmVFkYm51DAWoFrUDDKBTKc6wXjfJ7cSakV\\n6R42bh9u1ieI1anqOTUUf1nJFLD4S0w\/ZfiZD+BrtBEppmfWoh10smpEaD2BGNLo\\nfcEr2h81evudqf9QQf5ZnbWk5HVgJPNJjCrEEaJeAa\/m\/5tZC9FTzO0YhoqGutpQ\\nWTrvHTjY\/YjCET1lCoBVPNsH9XigUra7SsYzhWdjdEoYkkmlyEOd16JSkikqy1LQ\\nf4WMROcFAgMBAAECggEAOawRQAADDt3fOxhHXYgU7TdXZ2\/yCwSDTMRfp+xypRxV\\nHPkZ2h3ufk4QWTITNj0x+CsgmxWLNm2Ksp+ML2HDPCS9oLFDEdsNJfFLH90Oqdq9\\nNifdiovkk\/OdqmJ6m5yfPdpdsBocJ4+sgibwWuxegQCwzDSQWWxXCKU7agXGgpku\\nRUchVeqty88QSeeIiUnZI66Cx1dDau\/fbnpDUxRS6ia5iUKDa0zFAs4rsR6A76uZ\\nkXO4Zq+nRAOqHE+jFOwezFUJQf8GowY8vglKl70CBbYn9OJtJcG4de4PC75uTqH0\\nMXwWFZ2eEbVu7Tq\/3Fr4EwB0c3nykmzJUgB333Da\/wKBgQDOJkhBJaJyFWKmpd5R\\n+wlkB1DZUKeBbQuCtCbkuO+39+9QWC7bD6enEXVNhCtHe4NM5IXCSg1MOnsXVueO\\nMiwE4BgH05y4oXO+XtrVA9bCi7ktLtQ4gabikjQhgGn3OvwOqr3VCgnAoJOMuUyX\\ndO5Q1k6xgkkaUHqRFEgSV1AV1wKBgQDCiwoR0nJMkDYy0GScPqTM1CUAI2vRyoQ5\\nVEv6AxfA7unIx7Cv0pwm7uizLKydlc8mz4AwanCWdvABy43MxUONnEHfzIwkPrpG\\neTyP+s2Q3mjQfpSa5\/7eyyE\/FA13Gk6kVeusik3KMpkslj6ff7etKaWVufjZ1mw9\\nxY5pYzjWgwKBgQCUrJVVrq++eV\/hciSpmVQHeSM852c2947in8yhDiOM2VoV5tM8\\nF8lAu12PHzAbaJ+kN\/ejzMZUYKTfi0SKj\/KhPYD3PA1+NqqD9GL8V71uJ1jQlkJl\\n0lOqeejw9Gz36elZJpir6YZpDyX6yrTLUoCBel3ctWrFeJ88vJTR7XiLlwKBgHqs\\njmb6m1SoQ2T7f9X+spDu3X4e1+hsmcBE5bv7o0jn3sfbFBFq70ilslr5useMJhpF\\nEoJ1PBXFXkbjgsEzSwvLEsb7Bwv7+h5iaMwpzOKjPNjsWOztigwXbxmFnZATKK\/7\\n9ibQ94ifK3OwMkEFml85Oc8WfFNxIMQ7BThzdu3dAoGALe2lytQq2aFwQ0VwqWrE\\n1ITIeWL0M7YdJGAESLScObBdKR+FvZvrtsRkAV+bfD54Q6TTVQKLSk3dHt7rZEiG\\n5VDXhcXz\/+pD+7sXZsbjrw8U+Qv+B8lsUpm9CIcOCDPL\/4cDmPbCl7SkwWb2Tr2E\\njpE\/o\/D0C2pnbprG4H996tg=\\n-----END PRIVATE KEY-----\\n\",\n  \"client_email\": \"firebase-adminsdk-fbsvc@bp-admin-e5713.iam.gserviceaccount.com\",\n  \"client_id\": \"114759299916428030306\",\n  \"auth_uri\": \"https:\/\/accounts.google.com\/o\/oauth2\/auth\",\n  \"token_uri\": \"https:\/\/oauth2.googleapis.com\/token\",\n  \"auth_provider_x509_cert_url\": \"https:\/\/www.googleapis.com\/oauth2\/v1\/certs\",\n  \"client_x509_cert_url\": \"https:\/\/www.googleapis.com\/robot\/v1\/metadata\/x509\/firebase-adminsdk-fbsvc%40bp-admin-e5713.iam.gserviceaccount.com\",\n  \"universe_domain\": \"googleapis.com\"\n}\n",
+    "description": "BP ADMIN is a mobile application that provides convenient access to the https:\/\/thisisnot.trafarb.com website, offering a streamlined user experience on-the-go. With BP ADMIN, users can easily navigate and manage their online presence directly from their Android device.",
+    "build_id": "69ce250a0e4c3_1775117578",
+    "app_icon_path": "\/var\/www\/html\/uploads\/app_icon_69ce250a0e4c3_1775117578.png",
+    "splash_icon_path": "\/var\/www\/html\/uploads\/splash_icon_69ce250a0e4c3_1775117578.png",
+    "created_at": "2026-04-02 08:12:58"
+}
